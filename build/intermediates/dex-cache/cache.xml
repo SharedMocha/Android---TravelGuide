@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\libs\gson-2.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="42a24d508f5e05bd22cc42bd2e2babd7b5466ec9">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.2.1_d5a6c7392a374081bbb250c3111f8ef1d2956b48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\exploded-aar\com.getbase\floatingactionbutton\1.10.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f40cf334cdc8b098b74312e21c7741c6eefbeb0e">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.getbase-floatingactionbutton-1.10.1_108e9ba68b0d230ed49848e24e0797a9bc554917\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a1439654d4ddbc9beafad77ed181186a6fc97cdf">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b936e43b5236233c68fb3fbd45e4d5c29b4f1028\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_5f3ed31e751371db583714e284e750795f60bed2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_b122e8f93b442e298664d8b2f7001ea9df587b2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\exploded-aar\com.makeramen\roundedimageview\2.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="814fc0c3ec69a944add398217d90077301501a74">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.makeramen-roundedimageview-2.2.1_d28aad42cae6c43ad403a9b64a8b151c8c0dae5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_a053ba0ace93c7939177277ba1db62f0475ea3c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_ef67e0b3db636d3f45f545f799575a3f69ebce81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_e302e4a6a68a53f143484cbea2f8ee5a58afba59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.4.0_f9f9139a0886a7aa157caf21589db3540adc03b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\AppData\Local\Android\android-sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha6\constraint-layout-solver-1.0.0-alpha6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="539cfaee6c35087cdebad7e3a3bc0f52d1261d93">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha6_69767e7301f8f6f9577fc841ea58c723ef3f3cac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\exploded-aar\com.google.maps.android\android-maps-utils\0.3.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf251baf39f5c5138224b67b4106eb6331abbd13">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.maps.android-android-maps-utils-0.3.4_f045565efbdbb0f8deffe62f2ab5137e171a3101\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\exploded-aar\com.xgc1986.android\parallaxpagertransformer\1.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7a86f0c60ea0a89b8b48bf6ff55cdc64f2bfabc">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.xgc1986.android-parallaxpagertransformer-1.0.3_5daed0f0ecf8680876dd6abeaac6860c8af08e22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.4.0_76cb3249f285c954746bf89afec8f46391a8885d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-async-http-1.4.9_4395ed20a892b9b8809c7077f36d84250569683a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha6\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="683e0c40e56227acb71bcd29fee25fe417ae734e">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.0-alpha6_38d0487d2143850e799cb692800df0f89cdda2b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\libs\httpclient-4.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7e3cecc566df91338c6c67883b89ddd05a17db43">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpclient-4.5.1_6f529d31537286b31c7dddb9e57a69b32abe843c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.1\44780c2cf98f6a3cf4e77f1234d644758b329201\bolts-android-1.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="44780c2cf98f6a3cf4e77f1234d644758b329201">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-android-1.2.1_6d637daa6a4b0c865fa9ba078f042bfc7305c3eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\YouTubeAndroidPlayerApi_055fba358fc01f26bf4a3b549c900f31e077938c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\exploded-aar\com.code-troopers.betterpickers\library\2.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0ac52a832939616e53a97e43b2c527f933e206bd">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.code-troopers.betterpickers-library-2.2.1_57bb0db0bba94dd2734c091ea5a1ca33f0ca10c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="75993f965b8d64fa9dc6ec5b85b6c3033da2856f">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fac70e49dc17442d3b595a95ff04bd8e652e3990\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\exploded-aar\uk.co.chrisjenx\calligraphy\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e653e15e62e8a59ddd76cc7f827bf8bce38ae7bb">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\uk.co.chrisjenx-calligraphy-2.1.0_2abdc66a9fc8cc076c43b4024dc3181b3cc06d65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_1f9c36f6f4a97aa4149fda1cc43373baa87530bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_6366fccdebc49eeb078583c306593c6faca62978\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.4.0_6bb338b06df452206e1240027a7dc3266a322d60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\exploded-aar\me.zhanghai.android.materialprogressbar\library\1.1.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2a24cba08e1d865a79e61335f5a1bd64d520106d">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\me.zhanghai.android.materialprogressbar-library-1.1.4_b967595729429b80f6a89c32a4aa9cf0a706a23a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_531283ab48dcb4bf96867410d9434f5df2add167\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\libs\httpcore-4.4.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e876a79d561e5c6207b78d347e198c8c4531a5e5">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpcore-4.4.3_a0d9922bdde967d115e28a0f0cf8a3bc3e41cb81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.1\86b122e640af09b0723e1fa44083c354ba6d9089\glide-3.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.6.1_a6c61b23c3d2253560a6bb81dfbfa36b3a93939d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_24cb4abdc86b68e3b3a3dea26ba1897118cd5202\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\libs\foursquare-api-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f8b2bf3004096b8bedbc1d417830a6c828627ea">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\foursquare-api-1.0.2_2c0de71e80f21f2a92e0d17b801213227323758a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpclient-4.3.6_603f418e735bbc2fed04f60e8da116c763ee3d60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.4.0_80888a4ad38bca6c67dbdde045ce5ed33b9ca3ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\exploded-aar\com.afollestad.material-dialogs\core\0.8.4.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="85792c89098f72088ef905088d9b1479252e8fe6">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.afollestad.material-dialogs-core-0.8.4.2_05dcb40b9539274936c0973d520cceea3fe89c65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_d0640a47acec23935e59c68d1f672d72d0a19bf4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\libs\ParseFacebookUtilsV4-1.10.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="30f5f2c4ac77cfa3b5584766e3e40503bd927ae9">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\ParseFacebookUtilsV4-1.10.3_ed4d0a27d1fc3cdd5ab4cccca8f3fd5db517d303\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.4.0_2bb9cf23005a98e525f28605e9ed6b9f6fd34581\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\exploded-aar\com.android.support\percent\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="91c2541305eec5a688f3a60529d974e48f77d760">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-percent-23.4.0_16c40308e3360024fe0dfdc0a7101243bf0277bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1c1afa0ab2a8197a5da1b36c4167a9e479cb74d9">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.6.0_127d93746cd76725e49771459d580882e91071b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_41c776d2ca81ee83da79205a778c7a911461986c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-1.3.0_15114e76822db20ed9d136070ca8be262c99da75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\libs\Parse-1.10.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dfef23b83f8434c6e881096e1ac6d54dc3e52041">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\Parse-1.10.3_12f378149c7cb63609b11fd80d59a88fd881de57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\exploded-aar\com.astuetz\pagerslidingtabstrip\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="C:\Users\htammare\Desktop\MasterApp\MasterApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.astuetz-pagerslidingtabstrip-1.0.1_5d812e8a240bde17f946a3a370444eab08e5331f\classes.dex" />
+    </item>
+
+</items>
