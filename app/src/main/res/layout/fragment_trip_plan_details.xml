@@ -145,7 +145,7 @@
 
         <View
             android:layout_width="match_parent"
-            android:layout_height="10dp"
+            android:layout_height="2dp"
             android:id="@+id/space1"
             android:layout_below="@+id/ivInstructionMapImage"
             android:background="@color/white" />
@@ -155,7 +155,7 @@
             android:id="@+id/scanbtn"
             android:layout_below="@+id/space1"
             android:layout_width="fill_parent"
-            android:layout_height="40dp"
+            android:layout_height="20dp"
             android:text="Start Playing"
             android:shadowColor="@color/accent"
             android:layout_alignRight="@+id/tvInstructions"
